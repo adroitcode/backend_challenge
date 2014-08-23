@@ -1,0 +1,3 @@
+Request params set
+Querying db for user with name User0 and password test
+user_id: 1
